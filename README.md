@@ -1,2 +1,2 @@
-# Wedding_card
+# Wedding-card
 Zoe&amp;Alex wedding card
